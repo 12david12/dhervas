@@ -1,0 +1,2 @@
+Ej 1.
+mkdir -p dhervas/{uno,dos,tres};
