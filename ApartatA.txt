@@ -1,2 +1,4 @@
-Ej 1.
+Ej 01.
 mkdir -p dhervas/{uno,dos,tres};
+Ej 02.
+echo "David Hervás Álvarez" > un.txt
